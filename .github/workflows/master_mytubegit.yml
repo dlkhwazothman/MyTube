@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'MytubeGit'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0B56A970825741D39A8650EF22668BE8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_296CF06A4B7C401FBB3C2AF31D29A1F5 }}
           package: .
